@@ -1,0 +1,22 @@
+
+
+.card {
+  transition: box-shadow .4s;
+}
+.card:hover {
+  box-shadow: 0 0 20px rgba(33,33,33,.5);
+}
+
+.card-content {
+  padding:1rem !important;
+}
+.media-content {
+  width:180px !important;
+}
+.overflow-content div {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 100%;
+}
+
