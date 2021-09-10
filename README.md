@@ -1,5 +1,5 @@
 # vue-2x-layout
-[link](https://codesandbox.io/s/vue-demo-fetch-customers-j7clx?file=/src/components/CustomerCard.vue).
+See [online layout](https://codesandbox.io/s/vue-demo-fetch-customers-j7clx?file=/src/components/CustomerCard.vue).
 ## Project setup
 ```
 npm install
